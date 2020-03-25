@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpatsy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpatsy?ref=badge_shield)
+
 Patsy is a Python library for describing statistical models
 (especially linear models, or models that have a linear component) and
 building design matrices. Patsy brings the convenience of `R
@@ -43,3 +45,6 @@ Mailing list:
 
 License:
   2-clause BSD, see LICENSE.txt for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpatsy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpatsy?ref=badge_large)
